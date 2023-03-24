@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814673/" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -42,7 +42,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568067/" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -63,7 +63,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://www.minervamedica.it/en/journals/europa-medicophysica/article.php?cod=R33Y2015N05A0539" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -85,7 +85,7 @@ nav-menu: true
 
 
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317609/" class="image">
 			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -106,7 +106,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://journals.lww.com/pedpt/Fulltext/2020/10000/Experiences_of_Parents_of_Infants_Diagnosed_With.5.aspx" class="image">
 			<img src="{% link assets/images/pic02.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -126,7 +126,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="https://www.ncbi.nlm.nih.gov/books/NBK549778/" class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
