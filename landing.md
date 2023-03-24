@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814673/" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/CMTSquare06.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,7 +43,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568067/" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/CMTSquare01.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,7 +64,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.minervamedica.it/en/journals/europa-medicophysica/article.php?cod=R33Y2015N05A0539" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/CMTSquare05.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -86,7 +86,7 @@ nav-menu: true
 
 	<section>
 		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8317609/" class="image">
-			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/CMTSquare02.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -107,7 +107,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://journals.lww.com/pedpt/Fulltext/2020/10000/Experiences_of_Parents_of_Infants_Diagnosed_With.5.aspx" class="image">
-			<img src="{% link assets/images/pic02.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/CMTSquare04.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -127,7 +127,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.ncbi.nlm.nih.gov/books/NBK549778/" class="image">
-			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/CMTSquare03.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
