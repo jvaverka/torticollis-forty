@@ -1,0 +1,13 @@
+---
+layout: post
+title: Interventions
+description: Physical therapy support in an individual plan
+image: assets/images/CMTInterventions.jpeg
+nav-menu: true
+---
+
+When physical therapy is initiated within the first 3 months of life, there is as high as 95% resolution of symptoms (Tatli et al., 2006). Like we’ve mentioned before, CMT is not a lifelong diagnosis and is rarely treated with medications or surgery (Oledzka et al). But it can be a process that lasts 6-12 months or longer in severe cases. Physical therapists should always work to support you and give you the unique and individual plan of care that best fits you and your family needs (Oledzka et al). “When PT is initiated before 1 month of age, the prognosis for typical cervical range of motion (ROM) is 98% with 1½ months of PT.4 However when initiated from 1 to 3 months, the prognosis for typical cervical ROM decreases to 89% with 6 months of PT; when initiated from 3 to 6 months, it decreases to 62% with 7 months of PT; and when initiated over 6 months of age, it decreases to <20% with 10 months of PT,4” (Heidenreich et al). 
+
+The types of interventions can include: neck stretching, microcurrent, kinesiology taping, group therapy, and post-surgical interventions (Heidenreich et al). As you can see, physical therapy encompassess more than just neck stretching. “A comprehensive plan of care addresses the following 5 components as the first-choice intervention: neck PROM, neck and trunk active range of motion (AROM), development of symmetrical movement, environmental adaptations, and parent/caregiver education,” (Kaplan et al). Please refer to Kaplan’s article for more information on the 2018 Clinical Practice Guidelines for CMT. 
+
+Rehabilitation programs that incorporate, “— stretching the SCM muscle to recover cervical lateral flexion and rotation with infants in the prone position; — stretching the SCM muscle to recover cervical lateral flexion, with infants in the lateral position supported with a pillow; — controlling posture in strollers, swings or car seats. We suggested using a pillow to correct neck posture and toys/sounds etc. to encourage new- borns to turn away from the favoured side; — performing active rotation exercises to recover cervical ROM, with infant in the supine, sitting or prone position depending on age; — positioning newborns with the head inclined towards the affected side during breast or bottle- feeding; — performing environmental adaptations, i.e. positioning newborns and objects to encourage the correct movement/position of the head,” are all possible ways to encourage strength, cervical range of motion and neck posture for the infant (Carenzio et al). 
